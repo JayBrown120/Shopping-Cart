@@ -1,0 +1,28 @@
+img {
+    width: 300px;
+
+}
+
+.header {
+    background-color: red;
+    color:yellow;
+}
+
+.inputs {
+    background-color: red;
+    color:yellow;
+}
+.main{
+    display:flex;
+    justify-content:space-around;
+}
+.cart{
+    display:flex;
+    justify-content:space-around;
+}
+.footer{
+    display:flex;
+    justify-content:space-around;
+    background-color:green;
+    color:yellow;
+}
